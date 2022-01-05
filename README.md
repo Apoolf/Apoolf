@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <object>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</object>
+
+<a href=”https://www.linkedin.com/in/apoolf/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
