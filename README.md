@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<object>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/apoolf)</object>
 
-<a href="https://www.linkedin.com/in/apoolf"><img src="https://img.shields.io/badge/<Apoolf>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<p align="center">
+  <a href="http://twitter.com/itsapoolf">
+    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://discord.com/invite/jZQs6Wu">
+    <img src="https://img.shields.io/discord/699608417039286293?logo=artstation&style=for-the-badge&color=blue" />
+  </a>
+  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
+  </a>
+</p>
