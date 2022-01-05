@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="http://twitter.com/itsapoolf">
-    <img src="https://img.shields.io/badge/ItsApoolf-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/ItsApoolf-%232C3438.svg?style=for-the-badge&logo=Twitter&logoColor=1DA1F2" />
   </a>
   <a href="https://www.artstation.com/apoolf">
     <img src="https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=Artstation&logoColor=white" />
