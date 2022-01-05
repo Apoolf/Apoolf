@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="http://twitter.com/itsapoolf">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/twitter/follow/itsapoolf?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
     <img src="https://img.shields.io/discord/699608417039286293?logo=artstation&style=for-the-badge&color=blue" />
