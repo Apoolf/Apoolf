@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/twitter/follow/itsapoolf?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
   <a href="https://www.artstation.com/apoolf">
-    <img src="https://img.shields.io/apoolf/follow/apoolf?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/artstation/follow/apoolf?label=Artstation&logo=twitter&style=for-the-badge&color=blue" />
   </a>
   <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
