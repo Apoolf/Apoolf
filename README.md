@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="http://twitter.com/itsapoolf">
-    <img src="https://img.shields.io/twitter/follow/itsapoolf?label=Twitter&logo=twitter&style=for-the-badge&color=white" />
+    <img src="https://img.shields.io/badge/ItsApoolf-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
   <a href="https://www.artstation.com/apoolf">
-    <img src="https://img.shields.io/badge/ArtStation-%231DA1F2.svg?style=for-the-badge&logo=Artstation&logoColor=white" />
+    <img src="https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=Artstation&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/apoolf/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
