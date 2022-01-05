@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://www.artstation.com/apoolf">
     <img src="https://img.shields.io/badge/ArtStation-%231DA1F2.svg?style=for-the-badge&logo=Artstation&logoColor=white" />
   </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
+  <a href="https://www.linkedin.com/in/apoolf/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
