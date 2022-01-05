@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <object>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/apoolf)</object>
 
-<a href="https://www.linkedin.com/in/apoolf"><img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/apoolf"><img src="https://img.shields.io/badge/<Apoolf>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
