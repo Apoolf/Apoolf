@@ -32,8 +32,10 @@ Environment Art enthusiast. 🌻
   <img src="https://img.shields.io/badge/-AutoDesk Maya-147575?style=flat-square&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/-AutoDesk 3Ds Max-147575?style=flat-square&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/-ZBrush-147575?style=flat-square&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unity-147575?style=flat-square&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unity-#444444?style=flat-square&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/-Unreal-147575?style=flat-square&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Substance Painter-147575?style=flat-square&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=&logoColor=white" />
 
 ## I'm currently working on...
 My final student project, Taith. Repo available soon.
