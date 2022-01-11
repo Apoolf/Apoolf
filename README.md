@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://user-images.githubusercontent.com/3419640/148864806-cd58e0d6-76f9-41d8-9954-d9aa7b9bcf18.png"/> 
 <br>
-Hi! I'm Florencia Fernández or just Apoolf. 🔥
 <br>
-I'm a game development student, focused on 3D Art. 🖌️ 
+Hi! I'm Florencia Fernández or just Apoolf. 🔥
 <br>
 Big Environment Art enthusiast. 🌻
 <!--
@@ -26,6 +25,8 @@ Big Environment Art enthusiast. 🌻
 -->
 <br>
 <br>
+<p align="center">
+</p>
 
 ## I'm currently working on...
 My final student project, Taith. Repo available soon.
