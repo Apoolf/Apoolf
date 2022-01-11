@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=data:mayalogo&logoColor=white" />
 <img align="left" src="https://user-images.githubusercontent.com/3419640/148864806-cd58e0d6-76f9-41d8-9954-d9aa7b9bcf18.png"/> 
 <br>
 Hi! I'm Florencia Fernández. 🔥
 <br>
 Environment Art enthusiast. 🌻
-<!--
+<!--!
+[mayalogo](https://user-images.githubusercontent.com/3419640/148875069-2e7d3397-8922-4afb-80ee-f5494e97e80b.png)
+
 ![444333152538984458](https://user-images.githubusercontent.com/3419640/148864806-cd58e0d6-76f9-41d8-9954-d9aa7b9bcf18.png)
 -->
 <br>
