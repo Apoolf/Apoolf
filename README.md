@@ -26,16 +26,17 @@ Big Environment Art enthusiast. 🌻
 -->
 <br>
 <br>
-<br>
 
 ## I'm currently working on...
 My final student project, Taith. Repo available soon.
 
-##I'm currently learning about...
-stylized art.
+## I'm currently learning about...
+Stylized Art.
 
 <p align="center">
-  <p> Find Me Here: </p>
+  You can find me here:
+</p>
+<p align="center">
   <a href="http://twitter.com/itsapoolf">
     <img src="https://img.shields.io/badge/Twitter-%232C3438.svg?style=for-the-badge&logo=Twitter&logoColor=1DA1F2" />
   </a>
