@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://user-images.githubusercontent.com/3419640/148864806-cd58e0d6-76f9-41d8-9954-d9aa7b9bcf18.png"/> 
 Hi! I'm Florencia Fernández or just Apoolf. 🔥
+<br>
 I'm a game development student, focused on 3D Art. 🖌️ 
+<br>
 Big Environment Art enthusiast. 🌻
 <!--
 ![444333152538984458](https://user-images.githubusercontent.com/3419640/148864806-cd58e0d6-76f9-41d8-9954-d9aa7b9bcf18.png)
