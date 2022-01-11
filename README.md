@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi! I'm Florencia Fernández or just Apoolf, Queen of Hell. 
 
+I'm a game development student, focused on 3D Art. Big Environment Art enthusiast.
+
+I'm currently working on my final student project, Taith. Repo available soon.
+
+I'm currently learning about stylized art.
 
 <p align="center">
+  Find Me Here:
   <a href="http://twitter.com/itsapoolf">
     <img src="https://img.shields.io/badge/Twitter-%232C3438.svg?style=for-the-badge&logo=Twitter&logoColor=1DA1F2" />
   </a>
