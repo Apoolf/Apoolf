@@ -30,11 +30,11 @@ Environment Art enthusiast. 🌻
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-AutoDesk Maya-147575?style=flat-square&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AutoDesk 3Ds Max-147575?style=flat-square&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ZBrush-147575?style=flat-square&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unity-#444444?style=flat-square&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unreal-147575?style=flat-square&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Substance Painter-147575?style=flat-square&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AutoDesk 3Ds Max-3fb6b4?style=flat-square&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ZBrush-e6f1f3?style=flat-square&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unity-444444?style=flat-square&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unreal-444444?style=flat-square&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Substance Painter-99e83f?style=flat-square&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=&logoColor=white" />
 
 ## I'm currently working on...
