@@ -37,12 +37,6 @@ Environment Artist. 🌻
   <img src="https://img.shields.io/badge/-Substance Painter-99e83f?style=flat-square&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=&logoColor=white" />
 
-## I'm currently working on...
-My final student project, Taith. Repo available soon.
-
-## I'm currently learning about...
-Stylized Art.
-
 <p align="center">
   You can find me here:
 </p>
